@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+[![Build Status](https://travis-ci.org/dzyubin/Pomodoro.svg?branch=master)](https://travis-ci.org/dzyubin/Pomodoro)
+
 ## Build Setup
 
 ``` bash
